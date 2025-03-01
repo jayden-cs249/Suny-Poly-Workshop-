@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It's an and gate.
+It's a full adder that adds two bits together.
 
 ## How to test
 
@@ -17,4 +17,4 @@ Use the switches.
 
 ## External hardware
 
-LED.
+Two LEDs.
